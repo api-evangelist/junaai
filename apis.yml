@@ -1,8 +1,17 @@
 aid: junaai
 name: Juna.ai
-description: 'Juna.ai is a company surfaced as a portfolio company of kleiner-perkins and added to the
-  API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Juna.ai is a Berlin-based industrial AI company building an Agentic Factory
+  OS — a platform of autonomous AI agents that plan, steer, and continuously improve complex
+  industrial production processes. Its agents ingest live plant data through integrations
+  with existing IT/OT systems (SAP, Siemens, AVEVA, PI Server, Snowflake), model assets and
+  processes into a Factory Graph and Knowledge Graph, detect anomalies, run root-cause analysis,
+  generate reports, and recommend or execute control actions 24/7 with human-in-the-loop
+  oversight and full traceability. Juna targets heavy and process industries including chemicals,
+  cement, pulp & paper, glass, food & beverage, pharma, consumer goods, and industrial
+  manufacturing, focused on maximizing output, quality, energy efficiency, and sustainability.
+  The company is backed by Kleiner Perkins, Norrsken VC, and John Doerr. Juna delivers integration
+  through enterprise engagements and does not currently publish a public developer API, SDK,
+  or documentation portal.'
 url: https://raw.githubusercontent.com/api-evangelist/junaai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +19,31 @@ x-backed-by:
 - kleiner-perkins
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://juna.ai/media/pages/home/51adc03f8f-1771978926/junaai-1200x630-crop.jpg
 tags:
 - Company
 - Ai
+- Industrial AI
+- Manufacturing
+- AI Agents
+- Process Control
+- Energy Efficiency
+- Sustainability
+- Enterprise
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +51,28 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/junaai-domain-security.yml
+- type: LLMsTxt
+  url: llms/junaai-llms.txt
 - type: Website
-  url: https://www.juna.ai
+  url: https://juna.ai
+- type: About
+  url: https://juna.ai/about
+- type: Blog
+  url: https://juna.ai/resources
+- type: Support
+  url: https://juna.ai/get-in-touch
+- type: PrivacyPolicy
+  url: https://juna.ai/privacy
+- type: Careers
+  url: https://juna-ai.jobs.personio.de/?language=en
+- type: LinkedIn
+  url: https://www.linkedin.com/company/juna-ai/
+- type: YouTube
+  url: https://www.youtube.com/@juna-ai-berlin
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

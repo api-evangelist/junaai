@@ -1,0 +1,29 @@
+# Juna.ai
+
+> Juna.ai is a Berlin-based industrial AI company building an Agentic Factory OS — a platform of autonomous AI agents that plan, steer, and continuously improve complex industrial production processes. Agents ingest live plant data through integrations with existing IT/OT systems (SAP, Siemens, AVEVA, PI Server, Snowflake), model assets into a Factory Graph, detect anomalies, run root-cause analysis, and recommend or execute control actions 24/7 with human-in-the-loop oversight. Juna does not currently publish a public developer API, SDK, or documentation portal; integration is delivered through enterprise engagements. Backed by Kleiner Perkins, Norrsken VC, and John Doerr.
+
+## Product
+- [Factory Agents](https://juna.ai/agents): Autonomous AI agents that monitor processes, optimize energy use, and improve quality.
+- [Factory Foundation](https://juna.ai/foundation): Unified factory management and data foundation (Factory Graph + Knowledge Graph).
+- [Factory Chat](https://juna.ai/chat): Natural-language interface for analyzing factory data.
+- [Enterprise](https://juna.ai/enterprise): Enterprise deployment, hosting, and compliance posture.
+
+## Industries
+- [Chemicals](https://juna.ai/solutions/chemicals)
+- [Cement](https://juna.ai/solutions/cement)
+- [Pulp & Paper](https://juna.ai/solutions/pulp-and-paper)
+- [Glass](https://juna.ai/solutions/glass)
+- [Food & Beverages](https://juna.ai/solutions/food-and-beverages)
+- [Pharma](https://juna.ai/solutions/pharma)
+- [Consumer Goods](https://juna.ai/solutions/consumer-goods)
+- [Industrial Manufacturing](https://juna.ai/solutions/industrial-manufacturing)
+
+## Company
+- [About](https://juna.ai/about)
+- [Resources](https://juna.ai/resources)
+- [Get in touch](https://juna.ai/get-in-touch)
+- [Careers](https://juna-ai.jobs.personio.de/?language=en)
+
+## Legal
+- [Privacy](https://juna.ai/privacy)
+- [Imprint](https://juna.ai/imprint)
