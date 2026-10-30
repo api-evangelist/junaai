@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Juna.ai is a company surfaced as a portfolio company of kleiner-perkins and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Juna.ai is a Berlin-based industrial AI company building an Agentic Factory OS — a platform of autonomous AI agents that plan, steer, and continuously improve complex industrial production processes. Its agents ingest live plant data through integrations with existing IT/OT systems (SAP, Siemens, AVEVA, PI Server, Snowflake), model assets and processes into a Factory Graph and Knowledge Graph, detect anomalies, run root-cause analysis, generate reports, and recommend or execute control actions 24/7 with human-in-the-loop oversight and full traceability. Juna targets heavy and process industries including chemicals, cement, pulp & paper, glass, food & beverage, pharma, consumer goods, and industrial manufacturing, focused on maximizing output, quality, energy efficiency, and sustainability. The company is backed by Kleiner Perkins, Norrsken VC, and John Doerr. Juna delivers integration through enterprise engagements and does not currently publish a public developer API, SDK, or documentation portal.
 
-Backed by: kleiner-perkins — https://www.juna.ai
+**Areas:** Company · Artificial Intelligence · Industrial AI · Manufacturing · AI Agents · Process Control · Energy Efficiency · Sustainability · Enterprise
+
+## Juna.ai on APIs.io
+
+Everything profiled for Juna.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/junaai/](https://apis.io/providers/junaai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Junaai Domain Security](https://apis.io/security/junaai/junaai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://juna.ai)
+- [Support](https://juna.ai/get-in-touch)
+- [Blog](https://juna.ai/resources)
+- [Privacy policy](https://juna.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 8.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 7.7** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/junaai/](https://apis.io/providers/junaai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Juna.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/junaai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
